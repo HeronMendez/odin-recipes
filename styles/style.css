@@ -1,0 +1,19 @@
+body {
+  background-color: antiquewhite;
+}
+
+h1 {
+  font-family: Tahoma, sans-serif;
+  font-size: 80px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.odin {
+  border-radius: 10%;
+}
+.menu {
+  font-family: "Courier new", sans-serif;
+}
