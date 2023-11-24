@@ -5,14 +5,31 @@ body {
 h1 {
   font-family: Tahoma, sans-serif;
   font-size: 80px;
+  text-align: center;
 }
 
 a {
   text-decoration: none;
 }
 
+a:hover {
+  background-color: black;
+  color: white;
+  padding: 2px;
+  border-radius: 10%;
+}
+
+ul {
+  display: block;
+  text-align: center;
+  list-style-type: none;
+  padding: 10px;
+}
+
 .odin {
   border-radius: 10%;
+  display: block;
+  margin: 8px auto;
 }
 .menu {
   font-family: "Courier new", sans-serif;
