@@ -26,6 +26,16 @@ ul {
   padding: 10px;
 }
 
+#container {
+  width: 800px;
+  height: 600px;
+  background-color: white;
+  padding: 30px;
+  border-radius: 20%;
+  margin: 30px auto;
+  text-align: center;
+}
+
 .odin {
   border-radius: 10%;
   display: block;
